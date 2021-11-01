@@ -1,6 +1,6 @@
 # Работа с HTTP
 
- [[Github Pages](https://igor-chazov.github.io/ahj-hw-http-helpdesk)]
+ [![Build status](https://ci.appveyor.com/api/projects/status/swqfc8b0cng1qk06?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-http-helpdesk) [[Github Pages](https://igor-chazov.github.io/ahj-hw-http-helpdesk)]
  
 ---
 
